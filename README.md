@@ -1,8 +1,8 @@
 This is a REST API application for a school project VarWish
 
 to start this project make sure that:
-1)Python 3.6.7 is installed on your OS
-2)Have pip3 installed
+*Python 3.6.7 is installed on your OS*
+*Have pip3 installed*
 
 To start this app stay at root directory of the app.
 
